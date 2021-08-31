@@ -6,5 +6,5 @@ def hello_name(name):
 
 
 hello_name("Vasya")
-print("dev")
+
 
